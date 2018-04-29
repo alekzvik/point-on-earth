@@ -20,4 +20,4 @@ Sometimes you just need a point that is not in the water :)
 ```
 
 # Attributions
-Uses land polygons from Natural Earth.
+Made with Natural Earth. Free vector and raster map data @ naturalearthdata.com.
