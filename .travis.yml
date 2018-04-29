@@ -6,6 +6,6 @@ python:
   - "3.6"
   - "3.6-dev" # 3.6 development branch
 install: "pip install .[tests]"
-script: pytest --cov=shapely_geojson
+script: pytest --cov=point_on_earth
 after_success:
   - coveralls
